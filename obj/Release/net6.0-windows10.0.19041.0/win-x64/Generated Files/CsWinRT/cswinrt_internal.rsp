@@ -1,0 +1,7 @@
+-target net6.0
+-input 10.0.19041.0
+-input 
+-output "C:\Users\maxim\GeminiMusicPlayer\obj\Release\net6.0-windows10.0.19041.0\win-x64\Generated Files\CsWinRT"
+
+-exclude Windows
+-exclude Microsoft
